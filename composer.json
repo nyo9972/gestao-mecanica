@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/gfm",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "matheus",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  },
+  "config": {
+    "allow-plugins": {
+      "kylekatarnls/update-helper": true
+    }
+  }
+}
